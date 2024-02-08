@@ -1,0 +1,1 @@
+console.log("Olá  galeura, meu nome é lucas")
